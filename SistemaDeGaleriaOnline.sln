@@ -3,20 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeGaleriaOnline.Domain", "SistemaDeGaleriaOnline.Domain\SistemaDeGaleriaOnline.Domain.csproj", "{9984BC17-F7E8-4A3F-BCCE-477C814AF500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaDeGaleriaOnline.Domain", "SistemaDeGaleriaOnline.Domain\SistemaDeGaleriaOnline.Domain.csproj", "{9984BC17-F7E8-4A3F-BCCE-477C814AF500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeGaleriaOnline.Application", "SistemaDeGaleriaOnline.Application\SistemaDeGaleriaOnline.Application.csproj", "{7CD2E1C6-D207-440C-BE71-0BFDF358F221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaDeGaleriaOnline.Application", "SistemaDeGaleriaOnline.Application\SistemaDeGaleriaOnline.Application.csproj", "{7CD2E1C6-D207-440C-BE71-0BFDF358F221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeGaleriaOnline.Infrastructure", "SistemaDeGaleriaOnline.Infrastructure\SistemaDeGaleriaOnline.Infrastructure.csproj", "{3A4618E8-F550-47EF-A150-7ADCE4398882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaDeGaleriaOnline.Infrastructure", "SistemaDeGaleriaOnline.Infrastructure\SistemaDeGaleriaOnline.Infrastructure.csproj", "{3A4618E8-F550-47EF-A150-7ADCE4398882}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeGaleriaOnline.Api", "SistemaDeGaleriaOnline.Api\SistemaDeGaleriaOnline.Api.csproj", "{AC072A7D-D218-410F-93F5-07CACBB44FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaDeGaleriaOnline.Api", "SistemaDeGaleriaOnline.Api\SistemaDeGaleriaOnline.Api.csproj", "{AC072A7D-D218-410F-93F5-07CACBB44FD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeGaleriaOnline.Tests", "SistemaDeGaleriaOnline.Tests\SistemaDeGaleriaOnline.Tests.csproj", "{B47E0045-937C-4708-BEA4-7CAD34488A5C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AEE7C139-6479-4AFC-B3E0-ED7FD93604E9}"
-	ProjectSection(SolutionItems) = preProject
-		.gitignore = .gitignore
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaDeGaleriaOnline.Tests", "SistemaDeGaleriaOnline.Tests\SistemaDeGaleriaOnline.Tests.csproj", "{B47E0045-937C-4708-BEA4-7CAD34488A5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
